@@ -12,4 +12,7 @@ I show how to perform the following machine learning on graphs tasks:
 - DSE folder contains the teaching material for the lecture on Machine Learning on Graphs held for the Social Network Analysis course.
 - PhDBioKG folder contains the teaching material for the lab sessions on graph representation learning methods for homo and heterogenous graphs held for the Constructing and Mining Biomedical Knowledge Graphs course.
 
-
+## Suggested materials
+- One book to rule them all: [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
+- [Exploring the practical and theoretical landscape of expressive GNNs](https://www.youtube.com/watch?v=ASQYjbUBYzs)
+- [Evaluating link prediction methods](https://arxiv.org/abs/1505.04094)
