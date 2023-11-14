@@ -5,12 +5,13 @@ Teaching material for machine learning on graphs' lectures and lab. sessions hel
 
 I show how to perform the following machine learning on graphs tasks:
 - Node classification and link prediction on Cora citation network using static homogeneous GNN architectures. (DSE)
-- Protein-Protein interaction predictions on STRING data. (PhDBioKG)
-- Drugs' sideffect prediction using RGCN and Heterogenous Attention Networks. (PhdBioKG)
+- Protein-protein interaction predictions on STRING data. (PhDBioKG)
+- Drugs' side-effect prediction using RGCN and Heterogenous Attention Networks. (PhdBioKG)
 
 ## Folders
-- DSE folder contains the teaching material for the lecture on Machine Learning on Graphs held for the Social Network Analysis course.
-- PhDBioKG folder contains the teaching material for the lab sessions on graph representation learning methods for homo and heterogenous graphs held for the Constructing and Mining Biomedical Knowledge Graphs course.
+- The DSE folder contains the teaching material for the lecture on Machine Learning on Graphs held for the Social Network Analysis course.
+- The PhDBioKG folder contains the teaching material for the lab sessions on graph representation learning methods for homo and heterogenous graphs held for the Constructing and Mining Biomedical Knowledge Graphs course.
+- The Musemi folder contains the slides of the seminar held for the PhD students and Postdocs of the University of Milan.
 
 ## Suggested materials
 - One book to rule them all: [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton
